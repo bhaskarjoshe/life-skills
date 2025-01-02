@@ -1,18 +1,18 @@
 # Prevention of Sexual Harassment
 
-Almost every other day, we see in the news, about a company or an influential figure getting caught in an allegation of sexual harassment. This adversely impacts the reputation of the organization.  Sexual harassment at workplace has become far too common, even though many do not like to accept it.
+Almost every other day, we see in the news, about a company or an influential figure getting caught in an allegation of sexual harassment. This adversely impacts the reputation of the organization.  Sexual harassment in the workplace has become far too common, even though many do not like to accept it.
 
 ## What is Sexual Harassment?
 **Sexual harassment** includes any one or more of the following unwelcome acts or behavior:
 - physical contact and advances
-- a demand or request for sexual favours
-- making sexually coloured remarks
+- a demand or request for sexual favors
+- making sexually colored remarks
 - showing pornography
-- any other unwelcome physical, verbal or non-verbal conduct of sexual nature
+- any other unwelcome physical, verbal, or non-verbal conduct of a sexual nature
 
-## What is sexual harassment at workplace?
+## What is sexual harassment in the workplace?
 
-Sexual harassment at the workplace is any unwelcome sexually defined behaviour which has the purpose or effect of unreasonably interfering with the individual’s work performance or creating an intimidating, hostile, abusive or offensive working environment.
+Sexual harassment at the workplace is any unwelcome sexually defined behavior that has the purpose or effect of unreasonably interfering with the individual’s work performance or creating an intimidating, hostile, abusive, or offensive working environment.
 
 ## What kinds of behavior cause sexual harassment?
 
@@ -41,7 +41,7 @@ Sexual harassment at the workplace is any unwelcome sexually defined behaviour w
    - **Reaction**: Calmly but assertively remind them that professional and respectful conduct is expected in the workplace. If the behavior persists or causes discomfort, I will report it.
 
 2. **Equal Appreciation**
-   - **Scenario**: Compliments or attention are directed unequally, crossing professional boundaries (e.g., showing undue favoritism toward one individual).  
+   - **Scenario**: Compliments or attention is directed unequally, crossing professional boundaries (e.g., showing undue favoritism toward one individual).  
    - **Reaction**: Establish clear boundaries. If the behavior makes me uncomfortable or becomes excessive, document the incidents and report them to HR or a manager.
 
 3. **Everyone Loves a Compliment**
@@ -54,7 +54,7 @@ Sexual harassment at the workplace is any unwelcome sexually defined behaviour w
 
 5. **Testing the Waters**
    - **Scenario**: Subtle or boundary-testing behaviors, such as suggestive jokes or inappropriate comments, are used to gauge response.  
-   - **Reaction**: Address such behavior immediately by stating that it is unprofessional. If it persists, escalate the issue to HR.
+   - **Reaction**: Address such behavior immediately by stating it is unprofessional. If it persists, escalate the issue to HR.
 
 6. **The Contract**
    - **Scenario**: Demands, either explicit or implied, for sexual favors in exchange for career advancement or job security.  
@@ -73,15 +73,15 @@ Sexual harassment at the workplace is any unwelcome sexually defined behaviour w
    - **Reaction**: Clarify my intent directly with the person involved. If the behavior is malicious, document the incident and report it to HR.
 
 10. **You Gotta Keep Trying**
-    - **Scenario**: Unwanted advances or attention persist despite clear refusals or a lack of interest.  
+    - **Scenario**: Unwanted advances or attention persists despite clear refusals or a lack of interest.  
     - **Reaction**: Firmly refuse and report the behavior to HR or a supervisor if it continues.
 
 
 
-## What would I do in case I  face or witness any incident or repeated incidents of such behavior?
+## What would I do if I faced or witnessed any incident or repeated incidents of such behavior?
 
 1. **Confront the Behavior**:  
-   - Address the individual politely but firmly, making it clear that their behavior is unacceptable.  
+   - Address the individual politely but firmly, clarifying that their behavior is unacceptable.  
    - Set boundaries to communicate your discomfort effectively.  
 
 2. **Record the Incident**:  
@@ -124,3 +124,4 @@ Sexual harassment at the workplace is any unwelcome sexually defined behaviour w
 * [eLearn- 7-Point Guide for Sexual Harassment Prevention at Workplace](https://elearnposh.com/7-point-sexual-harassment-prevention-at-workplace/)
 * [EMPLOYMENT SEXUAL HARASSMENT (Employee)](https://www.youtube.com/watch?v=o3FhoCz-FbA)
 ---
+
