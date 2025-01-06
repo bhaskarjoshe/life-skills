@@ -14,7 +14,7 @@ Grit is the stamina to endure a long-term goal, work hard day in and day out, no
 
 An internal locus of control is the belief that your own choices and efforts shape your life outcomes, fostering responsibility and motivation.
 
-**Key Point-** A person who blames external factors for their circumstances is less likely to succeed because they avoid accountability and miss opportunities to learn and grow. In contrast, someone with an internal locus of control focuses on what they can change, enabling proactive problem-solving and long-term achievement.
+**Key Point -** A person who blames external factors for their circumstances is less likely to succeed because they avoid accountability and miss opportunities to learn and grow. In contrast, someone with an internal locus of control focuses on what they can change, enabling proactive problem-solving and long-term achievement.
 
 ## Question 4 What are the key points mentioned by the speaker to build a growth mindset (explanation not needed).
 
