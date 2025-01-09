@@ -12,7 +12,7 @@
 - Summarize key points to confirm understanding
 - Give appropriate feedback based on what was heard
 
-## Question 2 According to Fisher's model, what are the key points of Reflective Listening? (Write in your own words, use simple English)
+## Question 2 According to Fisher's model, what are the key points of Reflective Listening?
 
 - **Give Full Attention**: Focus entirely on the speaker, setting aside distractions to ensure complete presence in the conversation.
 
